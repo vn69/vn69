@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg" alt="Your image title" height="300" align="center"/>
+<img src="https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg" alt="Your image title" height="150" align="center"/>
 </p>
 
 
