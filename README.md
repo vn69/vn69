@@ -17,9 +17,10 @@
 
 
 
-## Projects
+## My demo projects JS
 
-- Tic tac toe game js: https://vn69.github.io/tictactoe/
-- Pick same color game js: https://vn69.github.io/pick-same-color/
+- Tic tac toe game: https://vn69.github.io/tictactoe/
+- Pick same color game: https://vn69.github.io/pick-same-color/
 - Music player: https://vn69.github.io/music-player/
+- To do list: https://vn69.github.io/to-do-list/
 
