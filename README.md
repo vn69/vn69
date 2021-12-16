@@ -1,6 +1,6 @@
 ![banner](https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg)
 
-# Paul Nguyen - Passionate Web Developer, Frontend Trainer
+# Doan nguyen - Front-end developer 
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend.
