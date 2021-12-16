@@ -8,8 +8,11 @@
 
 ## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
-- `worked` at bigmax: [https://bigmax.vn/](https://bigmax.vn/)
+- `worked` at bigmax company.
 - `public projects` at bigmax: [https://bigmax.vn/](https://bigmax.vn/) [https://tuyendung.bigmax.vn/](https://tuyendung.bigmax.vn/)
+
+
+
 
 ## Projects
 
