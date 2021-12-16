@@ -21,4 +21,5 @@
 
 - Tic tac toe game js: https://vn69.github.io/tictactoe/
 - Pick same color game js: https://vn69.github.io/pick-same-color/
+- Music player: https://vn69.github.io/music-player/
 
