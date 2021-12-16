@@ -1,16 +1,17 @@
-### Hi there 👋
+![banner](https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg)
 
-<!--
-**vn69/vn69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Paul Nguyen - Passionate Web Developer, Frontend Trainer
 
-Here are some ideas to get you started:
+- Open and friendly.
+- Love to learn new things, especially things related to Frontend.
+- Enjoy working with VeJS ❤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
+
+- `worked` at bigmax: [https://bigmax.vn/](https://bigmax.vn/)
+
+## Projects
+
+- Tic tac toe game: https://vn69.github.io/tictactoe/
+- Color matching game: https://vn69.github.io/pick-same-color/
+
