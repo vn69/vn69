@@ -1,4 +1,4 @@
-![banner](https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg | height=300)
+![banner](https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg){:height="300"}
 
 # Doan nguyen - Front-end developer 
 
