@@ -27,4 +27,4 @@
 ## My demo website responsive
 
 - Musician: https://vn69.github.io/web-musician/
-<!-- - photograph: https://vn69.github.io/sonar/ -->
+- photograph: https://vn69.github.io/sonar-photograph/
