@@ -26,5 +26,6 @@
 
 ## My demo website responsive
 
+- Photograph: https://vn69.github.io/sonar-photograph/
+- Startup: https://vn69.github.io/startup/
 - Musician: https://vn69.github.io/web-musician/
-- photograph: https://vn69.github.io/sonar-photograph/
