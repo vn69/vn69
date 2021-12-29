@@ -23,8 +23,8 @@
 - Pick same color game: https://vn69.github.io/pick-same-color/
 - Music player: https://vn69.github.io/music-player/
 - To do list: https://vn69.github.io/to-do-list/
-- Reactjs to do list: https://github.com/vn69/react-to-do.git
-- Reactjs tik tok toe: https://github.com/vn69/tik-tok-toe-react.git
+<!-- - Reactjs to do list: https://github.com/vn69/react-to-do.git -->
+- Reactjs tik tok toe: https://vn69.github.io/tik-tok-toe-react/
 
 ## My demo website responsive
 
