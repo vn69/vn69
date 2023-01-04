@@ -11,9 +11,9 @@
 
 ## My demo projects JS
 
+- vue2 example: https://vn69.github.io/vue2-example/
 - Tik tok toe game: https://vn69.github.io/tictactoe/
 - Pick same color game: https://vn69.github.io/pick-same-color/
-- Music player: https://vn69.github.io/music-player/
 - To do list: https://vn69.github.io/to-do-list/
 - Reactjs: https://vn69.github.io/reactjs
 
@@ -21,4 +21,3 @@
 
 - Photograph: https://vn69.github.io/sonar-photograph/
 - Startup: https://vn69.github.io/startup/
-- Musician: https://vn69.github.io/web-musician/
