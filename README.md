@@ -5,16 +5,16 @@
 
 ## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="230" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
-- `worked` at bigmax company, nextpay company.
+- `worked` at bigmax company.
+- `worked` at nexttech.
 - `projects` at bigmax: [https://bigmax.vn/](https://bigmax.vn/) [https://tuyendung.bigmax.vn/](https://tuyendung.bigmax.vn/)
+- `projects` at nexttech: [https://nextshop.next360.vn/homepage](https://nextshop.next360.vn/homepage)
 
 
 ## My demo projects JS
 
 - vue2 example: https://vn69.github.io/vue2-example/
-- Tik tok toe game: https://vn69.github.io/tictactoe/
-- Pick same color game: https://vn69.github.io/pick-same-color/
-- To do list: https://vn69.github.io/to-do-list/
+- vue2 code https://github.com/vn69/vue-example
 - Reactjs: https://vn69.github.io/reactjs
 
 ## My demo website responsive
