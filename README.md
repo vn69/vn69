@@ -13,8 +13,7 @@
 
 ## My demo projects JS
 
-- vue2 example: https://vn69.github.io/vue2-example/
-- vue2 code https://github.com/vn69/vue-example
+- vue2 example: https://vn69.github.io/vue2-example/ code https://github.com/vn69/vue-example
 - Reactjs: https://vn69.github.io/reactjs
 
 ## My demo website responsive
