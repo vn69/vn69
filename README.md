@@ -3,7 +3,7 @@
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend.
 
-## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="230" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
+## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
 - `worked` at bigmax company.
 - `worked` at nexttech.
