@@ -18,6 +18,7 @@
 ## My demo projects JS
 
 - vue2 example using router, vuex : https://vn69.github.io/vue2-example/ code https://github.com/vn69/vue-example
+- vue3 dashboash demo using primevue, piana : [https://vn69.github.io/vue3-demo/](https://vn69.github.io/dashboard-2023/) code [https://github.com/vn69/vue3-demo](https://github.com/vn69/dashboard-2023)
 - vue3 example demo authentication using router, pinia, firebase : https://vn69.github.io/vue3-demo/ code https://github.com/vn69/vue3-demo
 - Reactjs-demo: https://vn69.github.io/reactjs-new-demo/ code  https://github.com/vn69/reactjs-new-demo/
 - Nodejs, authentication with jwt: https://github.com/vn69/node-2023
