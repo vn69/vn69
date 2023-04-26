@@ -19,6 +19,7 @@
 
 - vue2 example using router, vuex : https://vn69.github.io/vue2-example/ code https://github.com/vn69/vue-example
 - vue3 dashboash demo using primevue, piana : [https://vn69.github.io/vue3-demo/](https://vn69.github.io/dashboard-2023/) code [https://github.com/vn69/vue3-demo](https://github.com/vn69/dashboard-2023)
+- nextjs demo: https://github.com/vn69/nextjs-2023
 - Nodejs, authentication with jwt: https://github.com/vn69/node-2023
 - Cat-GPT for fun ["https://vn69.github.io/vue3-demo/cat-gpt"](https://vn69.github.io/vue3-demo/cat-gpt)
 
