@@ -21,10 +21,10 @@
 - vue3 dashboash demo using primevue, piana : [https://vn69.github.io/vue3-demo/](https://vn69.github.io/dashboard-2023/) code [https://github.com/vn69/vue3-demo](https://github.com/vn69/dashboard-2023)
 - nextjs demo with Redux Toolkit: https://github.com/vn69/nextjs-2023
 - Nodejs, authentication with jwt: https://github.com/vn69/node-2023
-- Cat-GPT for fun ["https://vn69.github.io/vue3-demo/cat-gpt"](https://vn69.github.io/vue3-demo/cat-gpt)
+- Cat-GPT for fun https://vn69.github.io/vue3-demo/cat-gpt
 - Mobile: 
- + React Native todo list, Redux Toolkit: https://github.com/vn69/react-native-2023
- + Flutter todo list: https://github.com/vn69/flutter-2023
+ . React Native todo list, Redux Toolkit: https://github.com/vn69/react-native-2023
+ . Flutter todo list: https://github.com/vn69/flutter-2023
 
 ## My demo website responsive
 
