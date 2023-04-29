@@ -22,9 +22,9 @@
 - nextjs demo with Redux Toolkit: https://github.com/vn69/nextjs-2023
 - Nodejs, authentication with jwt: https://github.com/vn69/node-2023
 - Cat-GPT for fun https://vn69.github.io/vue3-demo/cat-gpt
-- Mobile: 
-  -React Native todo list, Redux Toolkit: https://github.com/vn69/react-native-2023
-  -Flutter todo list: https://github.com/vn69/flutter-2023
+>Mobile
+- React Native todo list, Redux Toolkit: https://github.com/vn69/react-native-2023
+- Flutter todo list: https://github.com/vn69/flutter-2023
 
 ## My demo website responsive
 
