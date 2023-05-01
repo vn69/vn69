@@ -17,6 +17,7 @@
 ##
 ## My demo projects JS
 >Web
+- vue3 clone some feature from landing page: https://main--velvety-wisp-42dc13.netlify.app/ code https://github.com/vn69/cloneLandiPageBeta
 - vue2 example using router, vuex : https://vn69.github.io/vue2-example/ code https://github.com/vn69/vue-example
 - vue3 dashboash demo using primevue, piana : [https://vn69.github.io/vue3-demo/](https://vn69.github.io/dashboard-2023/) code [https://github.com/vn69/vue3-demo](https://github.com/vn69/dashboard-2023)
 - nextjs demo with Redux Toolkit: https://github.com/vn69/nextjs-2023
