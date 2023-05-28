@@ -8,7 +8,7 @@
 - `worked` at bigmax company.
 - `worked` at nexttech.
 - `projects` at bigmax: [https://bigmax.vn/](https://bigmax.vn/) [https://tuyendung.bigmax.vn/](https://tuyendung.bigmax.vn/)
-- `projects` at nexttech: [https://nextshop.next360.vn/homepage](https://nextshop.next360.vn/homepage)
+- `projects` at nexttech: [https://nextshop.next360.vn/homepage](https://nextshop.next360.vn/homepage) https://crm.nextpay.global/login
 
 
 
